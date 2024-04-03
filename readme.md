@@ -32,7 +32,7 @@ wN*7hQ@p3#V2
 
 ## Autor
 
-Seu Nome
+[TonDevPy](https://github.com/tondevpy/)
 
 ## Licença
 
